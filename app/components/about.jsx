@@ -10,7 +10,7 @@ var About = (props) => {
           <a href="https://facebook.github.io/react">React</a> - This was the Javascript framework used.
         </li>
         <li>
-          <a href="http://openweatehrmap.org">Open Weather Map</a> - This was the open source weather API used in this example.
+          <a href="http://openweathermap.org">Open Weather Map</a> - This was the open source weather API used in this example.
         </li>
         <li>
           <a href="https://eltonwhybrow.github.io/">Angular2 - Recipe book app</a> - This was the Angular 2 app created and pushed github pages in my other tutorial.
